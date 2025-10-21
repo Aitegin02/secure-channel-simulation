@@ -12,4 +12,4 @@ This project implements a simplified cryptographic pipeline that simulates messa
 
 
 ## Results
-Empirical analysis **verified the confidentiality of transmitted data.** across 10,000 simulated transmissions, confirming the model’s theoretical secrecy.
+Empirical analysis **verified the confidentiality of transmitted data** across 10,000 simulated transmissions, confirming the model’s theoretical secrecy.

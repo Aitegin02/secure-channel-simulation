@@ -12,4 +12,4 @@ This project implements a simplified cryptographic pipeline that simulates messa
 
 
 ## Results
-Empirical analysis confirmed **near-zero data leakage** between transmitted and intercepted data across 10,000 simulated transmissions, validating the model’s theoretical secrecy.
+Empirical analysis confirmed **no data leakage** between transmitted and intercepted data across 10,000 simulated transmissions, validating the model’s theoretical secrecy.
